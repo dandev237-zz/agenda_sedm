@@ -1,0 +1,24 @@
+<resources>
+    <!-- Interfaz -->
+    <string name="app_name">Agenda</string>
+    <string name="searchbutton_text">Buscar</string>
+    <string name="addbutton_text">Añadir</string>
+    <string name="contactname_text">Nombre:</string>
+    <string name="contactnumber_text">Teléfono:</string>
+    <string name="title_activity_add_entry">Añadir contacto</string>
+    <string name="returnbutton_text">Volver</string>
+    <string name="callbutton_text">Llamar</string>
+    <string name="insertName">Insertar nombre</string>
+    <string name="insertNumber">Insertar número de tel.</string>
+
+    <!-- Errores -->
+    <string name="errorNoContact">Introduzca un contacto a buscar</string>
+    <string name="errorContactNotFound">Contacto no encontrado</string>
+    <string name="errorNoData">Faltan datos por rellenar</string>
+    <string name="errorDBAccess">Error en acceso a base de datos</string>
+
+    <!-- Texto aplicación -->
+    <string name="contactFound">Contacto encontrado</string>
+    <string name="contactAdded">Contacto añadido:</string>
+    <string name="contactUpdated">Contacto actualizado:</string>
+</resources>

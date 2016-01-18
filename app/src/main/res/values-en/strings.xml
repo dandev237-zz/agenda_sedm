@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="addbutton_text">Add</string>
+    <string name="contactname_text">Name:</string>
+    <string name="contactnumber_text">Number:</string>
+    <string name="searchbutton_text">Search</string>
+    <string name="returnbutton_text">Back</string>
+    <string name="title_activity_add_entry">Add contact</string>
+    <string name="callbutton_text">Call</string>
+    <string name="contactAdded">Contact added:</string>
+    <string name="contactFound">Contact found</string>
+    <string name="contactUpdated">Contact updated:</string>
+    <string name="errorContactNotFound">Contact not found</string>
+    <string name="errorDBAccess">Database access error</string>
+    <string name="errorNoContact">Enter contact to search</string>
+    <string name="errorNoData">Missing data required</string>
+    <string name="insertName">Insert name</string>
+    <string name="insertNumber">Insert phone number</string>
+</resources>
